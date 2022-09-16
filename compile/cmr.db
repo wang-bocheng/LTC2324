@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/LTC2324_cmos.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/pluse_generate.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/fenp.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="3">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+        </column_headers>
+        <row>
+            <data>1.45312</data>
+            <data>3</data>
+            <data>99,942,400</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/LTC2324_cmos.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/LTC2324_cmos.v(line number: 5)] Analyzing module LTC2324_cmos (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 5)] Analyzing module deserializer (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">[F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 17)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2010: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 42)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/pluse_generate.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/pluse_generate.v(line number: 5)] Analyzing module pulse_generator (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/fenp.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/fenp.v(line number: 6)] Analyzing module fenp (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">[F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/fenp.v(line number: 12)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 20)] Analyzing module pll (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Module &quot;LTC2324_cmos&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Module &quot;LTC2324_cmos&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/LTC2324_cmos.v(line number: 5)] Elaborating module LTC2324_cmos</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">LTC2324_cmos parameter value:
+    channel1 = 4'b0001
+    channel2 = 4'b0010
+    channel3 = 4'b0011
+    channel4 = 4'b0100</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 20)] Elaborating module pll</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/softeare/Pango/PDS/arch/vendor/pango/library/operator/gtp_lib.v(line number: 22266)] Elaborating module GTP_PLL_E3</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 121)] Net clkfb in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 124)] Net pfden in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 125)] Net clkout0_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 126)] Net clkout0_2pad_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 127)] Net clkout1_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 128)] Net clkout2_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 129)] Net clkout3_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 130)] Net clkout4_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 131)] Net clkout5_gate in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 132)] Net dyn_idiv in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 133)] Net dyn_odiv0 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 134)] Net dyn_odiv1 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 135)] Net dyn_odiv2 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 136)] Net dyn_odiv3 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 137)] Net dyn_odiv4 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 138)] Net dyn_fdiv in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 139)] Net dyn_duty0 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 140)] Net dyn_duty1 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 141)] Net dyn_duty2 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 142)] Net dyn_duty3 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/ipcore/pll/pll.v(line number: 143)] Net dyn_duty4 in pll(original module pll) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/fenp.v(line number: 6)] Elaborating module fenp</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/pluse_generate.v(line number: 5)] Elaborating module pulse_generator</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 5)] Elaborating module deserializer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">LTC2324_cmos.rx1 parameter value:
+    bit_0 = 5'b00000
+    bit_1 = 5'b00001
+    bit_2 = 5'b00010
+    bit_3 = 5'b00011
+    bit_4 = 5'b00100
+    bit_5 = 5'b00101
+    bit_6 = 5'b00110
+    bit_7 = 5'b00111
+    bit_8 = 5'b01000
+    bit_9 = 5'b01001
+    bit_10 = 5'b01010
+    bit_11 = 5'b01011
+    bit_12 = 5'b01100
+    bit_13 = 5'b01101
+    bit_14 = 5'b01110
+    bit_15 = 5'b01111</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 5)] Elaborating module deserializer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">LTC2324_cmos.rx2 parameter value:
+    bit_0 = 5'b00000
+    bit_1 = 5'b00001
+    bit_2 = 5'b00010
+    bit_3 = 5'b00011
+    bit_4 = 5'b00100
+    bit_5 = 5'b00101
+    bit_6 = 5'b00110
+    bit_7 = 5'b00111
+    bit_8 = 5'b01000
+    bit_9 = 5'b01001
+    bit_10 = 5'b01010
+    bit_11 = 5'b01011
+    bit_12 = 5'b01100
+    bit_13 = 5'b01101
+    bit_14 = 5'b01110
+    bit_15 = 5'b01111</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 5)] Elaborating module deserializer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">LTC2324_cmos.rx3 parameter value:
+    bit_0 = 5'b00000
+    bit_1 = 5'b00001
+    bit_2 = 5'b00010
+    bit_3 = 5'b00011
+    bit_4 = 5'b00100
+    bit_5 = 5'b00101
+    bit_6 = 5'b00110
+    bit_7 = 5'b00111
+    bit_8 = 5'b01000
+    bit_9 = 5'b01001
+    bit_10 = 5'b01010
+    bit_11 = 5'b01011
+    bit_12 = 5'b01100
+    bit_13 = 5'b01101
+    bit_14 = 5'b01110
+    bit_15 = 5'b01111</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/deserializer.v(line number: 5)] Elaborating module deserializer</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">LTC2324_cmos.rx4 parameter value:
+    bit_0 = 5'b00000
+    bit_1 = 5'b00001
+    bit_2 = 5'b00010
+    bit_3 = 5'b00011
+    bit_4 = 5'b00100
+    bit_5 = 5'b00101
+    bit_6 = 5'b00110
+    bit_7 = 5'b00111
+    bit_8 = 5'b01000
+    bit_9 = 5'b01001
+    bit_10 = 5'b01010
+    bit_11 = 5'b01011
+    bit_12 = 5'b01100
+    bit_13 = 5'b01101
+    bit_14 = 5'b01110
+    bit_15 = 5'b01111</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2036: [F:/444/code/FPGA/acoustic_camera/LTC2324_cmos/source/LTC2324_cmos.v(line number: 38)] Net rst_n connected to input port of module instance LTC2324_cmos has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM next_state_fsm[5:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N60 (bmsWIDEMUX).</data>
+        </row>
+    </table>
+    <general_container id="compile_settings" align="1">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL50H-6FBG484</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>LTC2324_cmos</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>System Verilog</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>F:/444/code/FPGA/acoustic_camera/LTC2324_cmos	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>
